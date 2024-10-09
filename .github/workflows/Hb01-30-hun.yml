@@ -43,10 +43,27 @@ jobs:
       - name: as002-hb2 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NYKM0fWMdh1rDalD0bxg5fgcjbpc/AgmTuDP070
       - name: as002-hb2 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NYKM0fWMdh1rDalD0bxg5fgcjbpc/AgmTuDP070
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms        
       - name: as002-hb2 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NYKM0fWMdh1rDalD0bxg5fgcjbpc/AgmTuDP070
       - name: as002-hb2 Run a one-line script
         run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NYKM0fWMdh1rDalD0bxg5fgcjbpc/AgmTuDP070
       - name: as002-hb2 Run a one-line script
-        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_NYKM0fWMdh1rDalD0bxg5fgcjbpc/AgmTuDP070
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+      - name: as002-hb2 Run a one-line script
+        run: curl -X POST https://api.vercel.com/v1/integrations/deploy/prj_klmTyez8jt7gezOyWDG9gCDLc2W7/i8w0lAlLms
+        
