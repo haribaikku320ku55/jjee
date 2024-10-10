@@ -1,4 +1,4 @@
-name: HM240-270-hun 
+name: HM0-hun 
 on:  
   push:
   pull_request:
